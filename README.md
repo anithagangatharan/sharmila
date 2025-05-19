@@ -17,21 +17,10 @@ This project is a solution to the Spaulding Ridge Case Study 1. The case involve
 - Benefits and Overhead are typically consistent percentages applied to Base Salary.
 - Bonus and Equity vary significantly by department and role.
 
-## Files
-
-- `Spaulding_Ridge_Case_Study_1.xlsx` - Original dataset provided
-- `Employee_Compensation_Analysis.ipynb` - Python notebook for analysis and forecasting
-
-## Usage
-
-1. Clone the repository
-2. Install required packages (pandas, numpy, matplotlib, seaborn, openpyxl)
-3. Run the notebook to explore insights and visualize compensation trends
 
 ## Results
 
 Forecasts suggest significant compensation growth in the Technology and Consulting departments in 2024. Strategic planning is required to manage equity and overhead allocations effectively.
 
-## Author
 
-Case Study Solution by [Your Name]
+Case Study Solution by Anithakumari S
